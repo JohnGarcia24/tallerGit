@@ -1,0 +1,2 @@
+user: johnGC
+Password: 123456
