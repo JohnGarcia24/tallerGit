@@ -1,2 +1,3 @@
 En el dia de hoy los temas tratados son:
 Que es un sistema de control de versiones.
+Como ingorar archivos para no ser compartidos en el area de trabajo
